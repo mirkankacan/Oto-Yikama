@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021-01-06 10:24:23.000.627,=C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-01-06 10:37:13.000.935,=C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-01-30 23:20:17.000.496,=C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-02-02 00:34:43.000.982,=C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-02-02 00:48:56.000.364,=C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021-02-02 00:49:30.000.446,C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\kacan\Desktop\Delphi\final\Unit1.dfm</Transaction>
+    <Transaction>2021-02-02 00:49:30.000.446,C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\kacan\Desktop\Delphi\final\Unit1.pas</Transaction>
+    <Transaction>2021-02-02 00:52:48.000.591,C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\kacan\Desktop\Delphi\final\Unit2.dfm</Transaction>
+    <Transaction>2021-02-02 00:52:48.000.591,C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\kacan\Desktop\Delphi\final\Unit2.pas</Transaction>
+    <Transaction>2021-02-02 00:52:53.000.340,C:\Users\kacan\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\kacan\Desktop\Delphi\final\Project1.dproj</Transaction>
+    <Transaction>2021-02-02 02:12:58.000.459,=C:\Users\kacan\Desktop\Delphi\öö_proje\u_not_gir_1.pas</Transaction>
+    <Transaction>2021-02-02 02:13:11.000.357,=C:\Users\kacan\Desktop\Delphi\öö_proje\u_not_gor_2.pas</Transaction>
+    <Transaction>2021-02-02 02:13:35.000.066,=C:\Users\kacan\Desktop\Delphi\öö_proje\u_ders_ekle.pas</Transaction>
+    <Transaction>2021-02-02 02:27:06.000.173,C:\Users\kacan\Desktop\Delphi\öö_proje\u_not_gir_1.pas=</Transaction>
+    <Transaction>2021-02-02 02:27:06.000.147,C:\Users\kacan\Desktop\Delphi\öö_proje\u_not_gor_2.pas=</Transaction>
+    <Transaction>2021-02-02 02:27:06.000.211,C:\Users\kacan\Desktop\Delphi\öö_proje\u_ders_ekle.pas=</Transaction>
+    <Transaction>2021-02-02 14:55:33.000.267,=C:\Users\kacan\Desktop\Delphi\final\Unit3.pas</Transaction>
+    <Transaction>2021-02-02 19:27:51.000.302,=C:\Users\kacan\Desktop\Delphi\final\Unit4.pas</Transaction>
+    <Transaction>2021-02-02 21:43:55.000.694,=C:\Users\kacan\Desktop\Delphi\final\Unit5.pas</Transaction>
+    <Transaction>2021-02-02 22:12:14.000.062,=C:\Users\kacan\Desktop\Delphi\final\Unit6.pas</Transaction>
+    <Transaction>2021-02-02 23:28:46.000.422,=C:\Users\kacan\Desktop\Delphi\final\Unit7.pas</Transaction>
+  </Transactions>
+</BorlandProject>
